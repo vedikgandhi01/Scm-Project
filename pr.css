@@ -1,0 +1,67 @@
+.n{
+    font-size: 30px;
+    font-family: bold;
+    margin-right: 20px;
+}
+.nav{
+    margin: 20px;
+}
+.in{
+    border: 4px solid burlywood;
+    background-color: burlywood;
+    color: aliceblue;
+    margin: 5px;
+}
+.image2{
+    background-image: url(finalimage.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.toline{
+    font-size: 50px;
+    font-family: pacifico;
+    text-align: left;
+    color: white;
+    margin-top: 100px;
+}
+
+.timer {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 38px;
+    font-size: 30px;
+    color: white;
+    overflow: hidden;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: left;
+}
+.timer div{
+    flex-basis: 100px;
+    padding: 20px;
+}
+#days{
+    text-align: center;
+    border: 3px solid white;
+    width: 100px;
+}
+#hours{
+    text-align: center;
+    border: 3px solid white;
+    width: 100px;
+}
+#minutes{
+    text-align: center;
+    border: 3px solid white;
+    width: 100px;
+    }
+#seconds{
+    text-align: center;
+    border: 3px solid white;
+    width: 100px;
+}
+.tags{
+    margin: 20px;
+    margin-top: 120px;
+    color: burlywood;
+}
